@@ -1,4 +1,5 @@
 import { calculate } from './perform-calculations.js'
+
 const calculator = {
     displayValue: '0',
     firstOperand: null,

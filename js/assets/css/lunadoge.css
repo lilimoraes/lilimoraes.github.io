@@ -2187,7 +2187,7 @@ footer p.privacy a:hover, footer p.privacy a:active {
     background-color: transparent;
 }
 
-.container-menu a:first-child img { width: 200px; height: 40px; outline: 0 }
+.container-menu a:first-child img { width: 150px; height: auto; outline: 0 }
 
 .container-menu a:first-child { background-color: transparent }
 
